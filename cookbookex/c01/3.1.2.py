@@ -12,5 +12,5 @@ print(year)
 print(mon)
 print(day)
 #如果变量个数和序列元素的个数不匹配，会产生一个异常
-p = (4, 5)
-x, y, z = p
+# p = (4, 5)
+# x, y, z = p
